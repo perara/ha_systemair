@@ -16,7 +16,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     license='MIT',
     install_requires=[
-        'websockets==8.1'
+        'websockets==9.1'
     ],
     package_data = {
         '': ['*parameters.txt']
